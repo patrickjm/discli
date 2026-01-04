@@ -31,6 +31,7 @@ archives:
 
 brews:
   - name: discli
+    folder: Formula
     repository:
       owner: patrickjm
       name: homebrew-tap
